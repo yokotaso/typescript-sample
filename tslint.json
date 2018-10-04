@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "tslint:recommends",
+    "tslint-config-prettier"
+  ]
+}
