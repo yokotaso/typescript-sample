@@ -1,8 +1,9 @@
+
 export interface Who {
-    name: string
+    name: String
 }
 
-export function getWho(name: string) : Who {
+export function getWho(name: String) : Who {
     return {
         name
     };
